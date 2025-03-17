@@ -1,0 +1,21 @@
+a {
+    color: green;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
+html {
+    font-family: Helvetica;
+}
+
+img {
+    border: 4px solid black;
+    border-radius: 20px;
+}
+ul {
+    list-style: none;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
